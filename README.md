@@ -1,5 +1,5 @@
-# Machien-learning-project-for-protein-functionality
+# Machine learning project for protein functionality
 
-Here I present the final project for computational science course that I have done in erasmus at Paris-Saclay
+Final project for computational science course done in erasmus at Paris-Saclay University.
 
-There are the 3 .txt with the datasets and the notebook with all the code
+There are the 3 txt files with the datasets and the notebook with all the code scripts.
